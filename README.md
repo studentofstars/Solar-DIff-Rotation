@@ -81,7 +81,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 This work uses the SunPy ecosystem for solar image analysis and coordinate conversion.
 
-##Contributors
+## Contributors
 
 Ritu Raj\
 Vinita Tiwari
