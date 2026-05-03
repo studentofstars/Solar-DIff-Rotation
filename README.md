@@ -13,12 +13,6 @@ The main workflow is implemented in the notebook files in this repository, espec
 - Stores the measured longitude and latitude values for later analysis.
 - Fits a line to longitude versus time to estimate an apparent rotation rate.
 
-## Repository layout
-
-- `SunspotTracker.ipynb` - sunspot centroid tracking and longitude estimation.
-- `ATSOAA_Project.ipynb` - broader SunPy-based analysis notebook.
-- `Data/` - local FITS files and supporting assets used by the notebooks.
-- `Figures/` - generated plots and figures, if you choose to save outputs there.
 
 ## Requirements
 
