@@ -80,4 +80,4 @@ This work uses the SunPy ecosystem for solar image analysis and coordinate conve
 Ritu Raj - rituuraj85@gmail.com\
 Vinita Tiwari - tvinita309@gmail.com
 
-# Carried out as a part of the ATSOAA Project in ARIES, Nanital.
+# Carried out as a part of the ATSOAA-2026 Project in ARIES, Nanital.
